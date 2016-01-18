@@ -13,6 +13,7 @@
 		0A933A7D1C4B93C900E66DA4 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0A933A7B1C4B93C900E66DA4 /* Main.storyboard */; };
 		0A933A7F1C4B93C900E66DA4 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0A933A7E1C4B93C900E66DA4 /* Assets.xcassets */; };
 		0A933A821C4B93C900E66DA4 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0A933A801C4B93C900E66DA4 /* LaunchScreen.storyboard */; };
+		0A933A8A1C4C1CDD00E66DA4 /* HistoryPage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0A933A891C4C1CDD00E66DA4 /* HistoryPage.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		0A933A7E1C4B93C900E66DA4 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		0A933A811C4B93C900E66DA4 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		0A933A831C4B93C900E66DA4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		0A933A891C4C1CDD00E66DA4 /* HistoryPage.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HistoryPage.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				0A933A7E1C4B93C900E66DA4 /* Assets.xcassets */,
 				0A933A801C4B93C900E66DA4 /* LaunchScreen.storyboard */,
 				0A933A831C4B93C900E66DA4 /* Info.plist */,
+				0A933A891C4C1CDD00E66DA4 /* HistoryPage.swift */,
 			);
 			path = "Favorite Place";
 			sourceTree = "<group>";
@@ -142,6 +145,7 @@
 				0A933A7A1C4B93C900E66DA4 /* SecondViewController.swift in Sources */,
 				0A933A761C4B93C900E66DA4 /* AppDelegate.swift in Sources */,
 				0A933A781C4B93C900E66DA4 /* FirstViewController.swift in Sources */,
+				0A933A8A1C4C1CDD00E66DA4 /* HistoryPage.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
